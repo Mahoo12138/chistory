@@ -1,0 +1,22 @@
+{
+  "name": "English",
+  "menubar": {
+    "characters": "Characters",
+    "archives": "Archives",
+    "extensions": "Extensions",
+    "help": "Help",
+    "theme": "Theme",
+    "language": "Language",
+    "repository": "Source Code"
+  },
+  "theme": {
+    "discord-dark": "Discord Dark",
+    "discord-light": "Discord Light"
+  },
+  "segment": {
+    "unknown": "unknown"
+  },
+  "chat": {
+    "title": "Message History"
+  }
+}
